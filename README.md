@@ -1,6 +1,7 @@
-# OOP Final Project
 
 ## Project Title: FundWise-Scholarship Program
+
+--- 
 
 ## Project Description
 FundWise is a console based scholarship management system built in C++. It is designed to help a financial aid office manage student scholarship applications from start to finish. An admin can register students, update their records, search through applicants, and release scholarship funds. Students can log in separately to check their profile and pay back their scholarship in installments. All data is saved automatically so nothing is lost when the program is closed.
