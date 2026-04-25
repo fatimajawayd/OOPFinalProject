@@ -1,4 +1,4 @@
-# OOPFinalProject
+# OOP Final Project
 ## FundWise-Scholarship Program
 
 ## Project Description
