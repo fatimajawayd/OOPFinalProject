@@ -1,6 +1,5 @@
 ## README written by Fatima Javed | 25k-0594
 
----
 
 ## Project Title: FundWise-Scholarship Program
 
